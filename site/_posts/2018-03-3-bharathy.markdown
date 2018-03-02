@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test by Bharathy!"
+title:  "Test by Mathbuddy!"
 categories: demo
 ---
 
